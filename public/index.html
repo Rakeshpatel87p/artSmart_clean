@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" ng-controller="backgroundImage" ng-app="momentumArtApp" ng-csp>
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300" rel="stylesheet">
+    <link rel="stylesheet" href="style/main.css">
+    <title>art.Smart</title>
+</head>
+<body>
+    <div>
+        <div class="paintingImage">
+            <img src={{backgroundImageUrl}} alt="">
+        </div>
+        <div ng-show="paintingBlurb" class="paintingDetails fadein fadeout">
+            <p class="paintingName">{{paintingName}}</p>
+            <p class="artistName">{{artistName}}</p>
+            <p class="date">{{yearPainted}}</p>
+        </div>
+    </div>
+    <script type="text/javascript" src="lib/angular/angular.js"></script>
+    <script type="text/javascript" src="../front-end_scripts/app.js"></script>
+</body>
+</html>

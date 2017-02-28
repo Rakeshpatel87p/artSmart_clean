@@ -1,0 +1,22 @@
+{
+  "name": "momentum_art",
+  "version": "1.0.0",
+  "description": "Learn Art in between browser loads",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon public/build/server.js",
+    "bundle": "browserify public/build/server.js > public/build/scripts/bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.1",
+    "unirest": "^0.5.1"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.0"
+  }
+}
