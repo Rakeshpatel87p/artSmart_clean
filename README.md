@@ -3,7 +3,7 @@
 
 Background
 
-I'm a newbie to the artworld. However, when gaining exposure to new pieces and different techniques, I found it difficult locating a source, especially one that could deliver a steady dose of digestible information. art.Smart was conceived, with inspiration from Momentum and microlesson providers like goHighBrow. 
+I'm a newbie to the art world. However, when gaining exposure to new pieces and different techniques, I found it difficult locating a source, especially one that could deliver a steady dose of digestible information. art.Smart was conceived, with inspiration from Momentum and microlesson providers like goHighBrow. 
 
 Solution
 
