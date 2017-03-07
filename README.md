@@ -1,3 +1,5 @@
+<img src="https://github.com/Rakeshpatel87p/portfolioSite/blob/master/images/artSmart.png" width="400"/>
+<br />
 
 Background
 
